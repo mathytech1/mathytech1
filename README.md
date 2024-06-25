@@ -35,11 +35,12 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 <h2 align="center">⚙️ Favorite Languages and Technologies</h2>
 <div id="languages" align="center">
-<a href="https://www.javascript.com/"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /></a> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" /> <img src="https://img.shields.io/badge/C++-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" />
+<a href="https://www.javascript.com/"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /></a> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Express-%230A0FFF.svg?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/C%2B%2B-%230A0FFF.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </div>
 <br>
 <h2 align="center">⚙⚙ Others I know</h2>
 <div id="languages" align="center">
+<img src="https://img.shields.io/badge/PHP-%230A0FFF.svg?style=for-the-badge&logo=php&logoColor=white" />
 <img src="https://img.shields.io/badge/C%23-276DC3?style=for-the-badge&logo=c%23&logoColor=white" /> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/MatLab-black?style=for-the-badge&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" /> <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" /> 
 </div>
 
