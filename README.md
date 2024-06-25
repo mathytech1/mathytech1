@@ -21,7 +21,7 @@
 
 I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Toronto, Canada.
 
-- 📚 Currently, I am pursuing my undergraduate degree with Computer Engineering at <a href="https://www.yorku.ca/" target="_blank">York University</a>.
+- 📚 Currently, I am pursuing my undergraduate degree with a Computer Engineering at <a href="https://www.yorku.ca/" target="_blank">York University</a>.
 
 - 💻 Software developing hobbyist with strong passion for full-stack software development.
 
