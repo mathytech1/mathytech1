@@ -52,6 +52,6 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   <img src="https://api.githubtrends.io/user/svg/mathytech1/langs?time_range=one_year&theme=dark" />
   <br>
   <br>
-  <img src="![mathytech1's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mathytech1&theme=vue-dark&hide_border=true)" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mathytech1&show_icons=true&theme=tokyonight" />
 </div>
 <br>
