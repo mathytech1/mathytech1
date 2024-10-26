@@ -52,6 +52,6 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   <img src="https://api.githubtrends.io/user/svg/mathytech1/langs?time_range=one_year&compact=True&theme=dark" />
   <br>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=mathytech1&show_icons=true&theme=tokyonight](https://github-readme-stats.vercel.app/api/top-langs/?username=mathytech1&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathytech1&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
 </div>
 <br>
