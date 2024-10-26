@@ -49,7 +49,7 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ### 📊 My Github Stats :
 
 <div id="stats" align="center">
-  <img src="https://api.githubtrends.io/user/svg/mathytech1/langs?time_range=one_year&compact=True&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathytech1&theme=vue-dark&show_icons=true&hide_border=false&layout=compact" />
   <br>
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mathytech1&theme=vue-dark&hide_border=false" />
