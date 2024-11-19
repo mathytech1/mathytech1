@@ -29,7 +29,7 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - 📨 Feel free to reach out to me via: <a href="https://www.linkedin.com/in/mathewos-beyene/">![Linkedin Badge](https://img.shields.io/badge/-Mathewos_Beyene-blue?style=flat&logo=Linkedin&logoColor=white)</a>
   <br>
-  🖥️ I welcome you to find more about me on my personal portfolio <a href="https://mathytech1.github.io/My-Portfolio/">website</a>.
+  🖥️ I welcome you to find more about me on my personal portfolio <a href="https://mathytech1.github.io/portfolio/">website</a>.
 
 ---
 
